@@ -8,3 +8,5 @@ Este é um projeto simples de Jogo da Memória desenvolvido com HTML, CSS e Java
 
 ## 🎯 Objetivo do Jogo
 Combine os pares de emojis escondidos no tabuleiro clicando nas cartas. Memorize as posições e encontre todos os pares!
+
+![image](https://github.com/user-attachments/assets/0e4d13e9-ec68-4e8a-a507-4bd5be8bde6e)
